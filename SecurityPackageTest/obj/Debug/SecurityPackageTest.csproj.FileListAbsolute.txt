@@ -1,0 +1,20 @@
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\mscorlib.dll
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\normidna.nlp
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\normnfc.nlp
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\normnfd.nlp
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\normnfkc.nlp
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\bin\Debug\normnfkd.nlp
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+A:\Faculty\Year 4 .. CS\Second Term\Security\Computer Security Methods\Startup code\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
